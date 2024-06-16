@@ -1,0 +1,126 @@
+2024-06-16 13:40:40.178 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 13:40:40.184 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 13:40:40.184 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 13:40:50.284 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 13:40:50.292 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 13:48:40.444 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 13:48:40.444 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 13:48:40.460 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 13:48:40.460 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 13:48:40.460 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 13:48:40.477 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 13:48:40.477 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 13:48:40.477 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 13:48:40.477 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 13:48:40.477 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 13:48:40.477 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 13:48:40.492 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 13:48:40.540 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 13:48:40.543 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:36:31.403 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:36:31.418 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:36:31.418 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:36:31.418 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:36:31.418 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:36:31.434 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:36:31.434 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:36:31.450 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:36:31.450 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:36:31.450 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:36:31.450 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:36:31.450 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:36:31.512 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:36:31.512 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:37:53.347 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:37:53.362 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:37:53.362 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:37:53.362 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:37:53.362 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:37:53.378 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:37:53.378 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:37:53.378 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:37:53.378 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:37:53.378 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:37:53.394 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:37:53.394 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:37:53.441 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:37:53.441 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:39:08.861 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:39:08.877 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:39:08.877 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:39:08.877 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:39:08.877 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:39:08.893 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:39:08.893 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:39:08.893 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:39:08.893 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:39:08.893 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:39:08.908 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:39:08.908 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:39:08.955 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:39:08.955 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:45:55.413 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:45:55.428 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:45:55.428 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:45:55.428 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:45:55.428 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:45:55.444 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:45:55.444 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:45:55.444 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:45:55.444 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:45:55.444 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:45:55.460 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:45:55.460 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:45:55.507 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:45:55.507 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:46:59.158 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:46:59.158 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:46:59.158 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:47:09.956 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:47:09.987 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:47:23.302 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:47:23.302 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:47:23.302 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:47:36.336 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:47:36.351 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:47:58.207 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:47:58.212 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:47:58.219 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:47:58.219 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:47:58.221 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:47:58.236 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:47:58.237 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:47:58.238 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:47:58.238 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:47:58.239 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:47:58.243 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:47:58.252 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:47:58.302 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:47:58.303 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:18.358 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:18.358 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:18.374 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:18.374 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:18.374 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:48:18.390 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:48:18.390 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:48:18.390 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:18.390 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:18.390 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:48:18.405 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:48:18.405 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:48:18.452 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:18.452 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:24.879 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:24.879 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:24.879 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:48:33.336 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: XML
+2024-06-16 14:48:33.351 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done
+2024-06-16 14:48:42.560 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:48:42.576 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:48:42.576 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:49:41.831 [main] DEBUG com.mastrodaro.lang.Dictionary - Dictionary initialized.
+2024-06-16 14:49:41.835 [main] DEBUG com.mastrodaro.exporters.ExporterProvider - ExporterProvider bootstraped.
+2024-06-16 14:49:41.835 [main] INFO  com.mastrodaro.parser.SentenceParser - Parsing - start
+2024-06-16 14:49:49.169 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - input read successful, starting export: CSV
+2024-06-16 14:49:49.181 [main] DEBUG com.mastrodaro.parser.SentenceParser - Parsing - done

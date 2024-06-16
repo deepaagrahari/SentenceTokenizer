@@ -1,0 +1,395 @@
+2024-06-15 15:01:47,768 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-15 15:01:47,773 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-15 15:01:47,788 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-15 15:01:47,788 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-15 15:01:47,802 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-15 15:01:47,828 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-15 15:01:47,835 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-15 15:01:47,842 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-15 15:01:47,842 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-15 15:01:47,843 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-15 15:01:47,856 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-15 15:01:47,869 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-15 15:01:48,091 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-15 15:01:48,092 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:52:52,229 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:52:52,232 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:52:52,241 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:52:52,241 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:52:52,243 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 09:52:52,261 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 09:52:52,263 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 09:52:52,267 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:52:52,268 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:52:52,268 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 09:52:52,273 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 09:52:52,283 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 09:52:52,461 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:52:52,462 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:54:30,242 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:54:30,246 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:54:30,254 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:54:30,254 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:54:30,257 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 09:54:30,273 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 09:54:30,277 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 09:54:30,282 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 09:54:30,282 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:54:30,283 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 09:54:30,292 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 09:54:30,300 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 09:54:30,438 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 09:54:30,439 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:01:21,931 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:01:21,935 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:01:21,944 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:01:21,944 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:01:21,946 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:01:21,962 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 10:01:21,965 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:01:21,970 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:01:21,971 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:01:21,971 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:01:21,979 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 10:01:21,990 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:01:22,136 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:01:22,137 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:07:23,810 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:07:23,813 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:07:23,820 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:07:23,821 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:07:23,822 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:07:23,834 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 10:07:23,838 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:07:23,841 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:07:23,841 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:07:23,841 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:07:23,849 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 10:07:23,859 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:07:24,006 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:07:24,006 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:11:10,137 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:11:10,139 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:11:10,149 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:11:10,149 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:11:10,150 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:11:10,167 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 10:11:10,170 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:11:10,174 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:11:10,175 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:11:10,175 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:11:10,179 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 10:11:10,189 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:11:10,315 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:11:10,315 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:17:52,315 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:17:52,318 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:17:52,327 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:17:52,327 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:17:52,329 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:17:52,347 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: CSV
+2024-06-16 10:17:52,349 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:17:52,356 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 10:17:52,356 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:17:52,356 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:45] Parsing - start
+2024-06-16 10:17:52,362 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:47] Parsing - input read successful, starting export: XML
+2024-06-16 10:17:52,370 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:49] Parsing - done
+2024-06-16 10:17:52,527 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:25] ExporterProvider bootstraped.
+2024-06-16 10:17:52,528 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:19:29,927 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:19:29,932 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:19:29,947 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:19:29,947 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:19:29,950 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:19:29,975 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: CSV
+2024-06-16 11:19:29,979 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:19:29,987 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:19:29,987 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:19:29,987 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:19:29,997 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 11:19:30,012 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:19:30,246 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:19:30,247 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:21:23,653 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:21:23,657 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:21:23,666 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:21:23,667 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:21:23,669 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:21:23,688 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: CSV
+2024-06-16 11:21:23,691 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:21:23,695 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:21:23,695 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:21:23,696 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:21:23,703 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 11:21:23,711 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:21:23,832 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:21:23,832 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:23:51,710 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:23:51,714 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:29:41,904 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:29:41,908 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:29:41,909 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:29:41,921 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: CSV
+2024-06-16 11:29:41,929 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:29:41,930 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:29:41,931 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:29:41,932 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:29:41,940 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 11:29:41,947 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:29:57,719 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:29:57,723 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:54:58,390 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:54:58,395 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:54:58,402 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:54:58,402 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:54:58,405 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:54:58,419 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: CSV
+2024-06-16 11:54:58,423 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:54:58,424 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 11:54:58,425 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:54:58,425 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 11:54:58,435 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 11:54:58,444 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 11:54:58,524 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 11:54:58,525 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:00:11,608 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:00:11,612 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:00:11,612 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:00:11,612 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:00:11,616 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:01:18,866 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:01:18,870 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:01:18,870 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:01:18,870 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: CSV
+2024-06-16 12:01:18,874 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:02:46,824 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:02:46,828 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:02:46,828 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:03:22,687 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:03:22,690 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:03:22,690 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:04:22,455 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:04:22,459 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:04:22,459 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:04:48,806 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:04:48,822 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:05:08,661 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:05:08,665 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:05:08,665 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:07:22,007 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:07:22,011 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:07:22,011 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:07:35,289 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:08:02,323 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:08:50,209 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:10:31,494 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:10:31,498 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:10:31,498 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:10:44,548 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:10:44,567 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:11:17,294 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:11:17,297 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:11:17,297 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:13:03,586 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:13:03,590 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:13:03,590 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:19:12,682 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:19:12,686 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:19:12,686 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:19:58,392 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:19:58,396 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:19:58,397 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:22:08,471 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:22:08,476 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:22:08,476 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:22:29,266 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:22:29,272 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:22:29,272 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:22:57,549 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:22:57,553 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:22:57,553 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:23:44,895 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:23:44,899 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:23:44,899 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:24:36,081 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:24:36,085 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:24:36,086 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:26:35,741 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:26:35,746 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:26:35,755 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:26:35,756 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:26:35,758 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:26:35,772 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: CSV
+2024-06-16 12:26:35,777 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:26:35,778 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:26:35,778 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:26:35,779 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:26:35,786 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:26:35,795 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:26:35,861 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:26:35,863 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:26:40,161 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:26:40,165 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:26:40,165 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:27:37,803 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:27:37,809 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:27:37,810 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:27:58,913 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:27:58,918 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:27:58,918 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:28:19,239 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:28:19,257 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:28:27,809 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:28:27,813 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:28:27,813 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:29:56,291 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:29:56,295 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:29:56,295 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:30:27,016 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:30:27,020 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:30:27,020 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:30:48,898 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:30:48,914 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:30:56,292 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:30:56,297 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:30:56,297 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:31:30,953 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:31:30,957 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:31:30,957 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:32:37,251 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:32:37,254 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:32:37,255 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:32:48,999 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:32:49,008 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:33:00,972 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:33:00,975 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:33:00,975 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:33:17,949 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:33:17,953 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:33:17,953 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:33:48,515 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:33:48,520 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:33:48,520 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:34:52,798 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:34:52,801 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:34:52,802 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:48:13,387 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:48:13,393 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:48:13,393 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:49:11,888 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:49:11,901 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:49:38,484 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:49:38,488 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:49:38,488 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:50:41,162 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:50:41,162 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:50:41,162 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:53:31,648 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:53:31,666 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:53:37,026 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:53:37,030 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:53:37,030 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:54:19,182 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:54:19,185 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:54:19,187 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:55:18,826 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:55:18,830 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:55:18,830 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:55:57,165 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:55:57,169 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:55:57,169 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:56:08,183 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:56:08,192 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:56:33,900 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:56:33,903 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:56:33,904 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:56:49,602 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:53] Parsing - input read successful, starting export: XML
+2024-06-16 12:56:49,616 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:55] Parsing - done
+2024-06-16 12:57:01,051 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:57:01,055 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:57:01,055 INFO [main] c.m.p.SentenceParser [SentenceParser.java:51] Parsing - start
+2024-06-16 12:57:28,020 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:57:28,024 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:57:28,024 INFO [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:57:35,451 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:57:35,464 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:58:00,283 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:58:00,287 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:58:00,287 INFO [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:58:05,203 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:58:05,218 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 12:58:33,200 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 12:58:33,205 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 12:58:33,205 INFO [main] c.m.p.SentenceParser [SentenceParser.java:50] Parsing - start
+2024-06-16 12:58:37,540 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:52] Parsing - input read successful, starting export: XML
+2024-06-16 12:58:39,718 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:54] Parsing - done
+2024-06-16 13:02:13,142 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:02:13,144 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:02:13,145 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:02:24,146 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:02:26,261 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:02:49,075 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:02:49,079 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:02:49,079 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:02:59,727 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:02:59,743 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:03:33,891 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:03:33,895 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:03:33,904 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:03:33,905 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:03:33,907 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:03:33,918 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: CSV
+2024-06-16 13:03:33,921 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:03:33,923 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:03:33,923 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:03:33,923 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:03:33,932 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:03:33,941 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:03:34,017 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:03:34,017 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:04:47,595 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:04:47,595 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:04:47,595 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:04:56,278 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:04:56,296 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:14:01,292 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:14:01,296 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:14:01,296 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:14:06,746 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:14:06,763 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:14:39,925 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:14:39,929 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:14:39,929 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:14:43,572 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:14:43,587 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:20:47,732 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:20:47,736 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:20:47,736 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:20:56,580 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:20:56,599 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:22:22,232 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:22:22,236 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:22:22,236 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:22:26,033 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:22:26,054 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:22:39,648 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:22:39,652 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:22:39,652 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:22:43,000 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:22:43,023 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:23:05,504 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:23:05,507 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:23:05,507 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:23:09,777 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:23:09,791 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:24:35,227 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:24:35,231 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:24:35,231 INFO [main] c.m.p.SentenceParser [SentenceParser.java:56] Parsing - start
+2024-06-16 13:24:37,537 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:58] Parsing - input read successful, starting export: XML
+2024-06-16 13:24:37,554 DEBUG [main] c.m.p.SentenceParser [SentenceParser.java:60] Parsing - done
+2024-06-16 13:30:36,195 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:30:36,521 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:31:21,334 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:31:21,656 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
+2024-06-16 13:31:48,476 DEBUG [main] c.m.l.Dictionary [Dictionary.java:29] Dictionary initialized.
+2024-06-16 13:31:48,787 DEBUG [main] c.m.e.ExporterProvider [ExporterProvider.java:30] ExporterProvider bootstraped.
